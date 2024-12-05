@@ -1,5 +1,6 @@
 [package]
 authors = ["tracyspacy"]
+categories = ["embedded", "hardware-support", "no-std"]
 name = "rgbled"
 description = "rgbled is a driver for controlling RGB LEDs using PWM, with built-in gamma correction"
 version = "0.1.0"
